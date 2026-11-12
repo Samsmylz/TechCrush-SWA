@@ -3,3 +3,4 @@ This repository contains my assignment about creating and pushing my work to git
 # CreativeHub homepage
 A simple weebsite using HTML, JavaScript and CSS
 # TechCrush-SWA
+Azure Static Web App
